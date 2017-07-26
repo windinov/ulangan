@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ulangan</title>
+	<title>halaman utama</title>
 </head>
 <body>
-		harap tenang sedang ujian
+		selamat
 </body>
 </html>
