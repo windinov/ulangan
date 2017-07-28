@@ -42,3 +42,11 @@ Route::get('/testsiswa', function () {
 	$query=App\siswa::all();
 	return $query;
 });
+
+Route::get('/about', function () {
+	return view('about');
+});
+
+Route::get('/latihan', function () {
+	return view('latihan');
+});
